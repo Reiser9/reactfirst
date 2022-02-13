@@ -1,0 +1,15 @@
+.content{
+    padding: 3rem 0;
+    background: cornflowerblue;
+}
+
+.content__inner{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content__content{
+    width: 100%;
+}

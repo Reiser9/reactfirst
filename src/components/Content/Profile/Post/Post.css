@@ -1,0 +1,40 @@
+.profile__post--item{
+    width: 100%;
+    margin-top: 2rem;
+    display: flex;
+    align-items: flex-start;
+}
+
+.profile__post--img--inner{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-right: 2rem;
+}
+
+.profile__post--img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile__post--content--inner{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.profile__post--likes{
+    font-size: 1.6rem;
+    color: #534f4f;
+}
+
+.profile__post--text{
+    margin-top: 1rem;
+}

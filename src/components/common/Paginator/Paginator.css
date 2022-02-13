@@ -1,0 +1,16 @@
+.pagination{
+    margin-top: 3rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.pagination__button{
+    margin: .5rem;
+}
+
+.active__paggination{
+    color: red;
+}

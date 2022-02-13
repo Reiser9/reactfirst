@@ -1,0 +1,12 @@
+.message__dialogs--item{
+    padding: 10px;
+    width: 100%;
+    color: #ffffff;
+    background: none;
+    cursor: pointer;
+    transition: .2s linear;
+}
+
+.message__dialogs--item:hover{
+    background: #555555;
+}

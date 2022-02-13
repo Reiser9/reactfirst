@@ -1,0 +1,40 @@
+:root{
+    font-size: 10px;
+}
+
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.8rem;
+}
+
+.button{
+    outline: none;
+    font-size: 2rem;
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    border: none;
+    cursor: pointer;
+    transition: .2s linear;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 1.8rem;
+    overflow-x: hidden;
+}
+
+.container{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}

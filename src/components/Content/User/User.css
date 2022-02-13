@@ -1,0 +1,9 @@
+button[disabled]{
+    opacity: .5;
+}
+
+button[disabled]:hover{
+    background: #fff;
+    color: #2ebaee;
+    cursor: default;
+}

@@ -1,0 +1,15 @@
+.form__inner{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form__input--error{
+    border: 2px solid red;
+}
+
+.form__error{
+    margin-top: 0.5rem;
+    color: red;
+}
